@@ -7,5 +7,6 @@ On the back-end side, I used Python and SQLite API to extract sales data and inv
 On the front-end side, I utilized the Streamlit framework to design my web application and to demonstrate back-end functions in terms of inventory alarms, sales analysis, and acquisition forecasting.
 
 ## Fuction features:
-# 1. Inventory Alarm:
+1. Inventory Alarm:
+![Alt text](Inventory Alarm.png "Inventory Alarm")
 
