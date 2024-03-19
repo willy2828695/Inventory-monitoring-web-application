@@ -8,5 +8,6 @@ On the front-end side, I utilized the Streamlit framework to design my web appli
 
 ## Fuction features:
 1. Inventory Alarm:
-![Alt text](Inventory Alarm.png "Inventory Alarm")
+![Alt text](Inventory-monitoring-web-application
+/Inventory Alarm.png "Inventory Alarm")
 
